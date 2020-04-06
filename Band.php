@@ -1,3 +1,4 @@
+<?php
 class Band{
 	public $text;
 	public $length;
