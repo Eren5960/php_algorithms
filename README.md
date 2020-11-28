@@ -1,2 +1,2 @@
 # php_algorithms
-My php algorithms for professionals :smile:
+My php algorithms for professionals
